@@ -1,0 +1,2 @@
+# cleanwptheme
+Clean wp theme 
